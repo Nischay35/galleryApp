@@ -1,0 +1,15 @@
+.list-items {
+  list-style-type: none;
+  margin: 3px;
+}
+.styling {
+  background-color: #64748b;
+}
+.images {
+  height: 20px;
+  width: 30px;
+  margin: 4px;
+}
+.btn-image {
+  height: 20px;
+}

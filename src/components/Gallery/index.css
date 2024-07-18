@@ -1,0 +1,36 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+}
+.image-container {
+  text-align: center;
+  margin: 6px;
+  border-radius: 3px;
+}
+.heading {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  align-self: flex-start;
+  margin: 5px;
+}
+.text {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-size: 12px;
+  align-self: flex-start;
+  margin: 6px;
+}
+.thumbnail-image {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 4px;
+  padding: 4px;
+}
